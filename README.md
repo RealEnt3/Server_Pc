@@ -1,2 +1,2 @@
 # Server_Pc
-Plugins for an Pc as server 
+Plugin for automation after system start
